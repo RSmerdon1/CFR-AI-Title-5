@@ -1,3 +1,6 @@
+
+![CFR 5](https://github.com/RSmerdon1/CFR-AI-Title-5/assets/100503276/ca47c491-300e-4703-ad37-2e0eb668f010)
+
 # CFR-AI-Title-5
 
 CFR AI - Title 5 is a specialized chatbot app designed to assist users in navigating and understanding the complexities of Title 5 of the Code of Federal Regulations (CFR), which covers Administrative Personnel. This app is particularly useful for professionals such as Human Resources Managers, Government Employees, Labor and Employment Lawyers, Compliance Officers, Policy Analysts, Union Representatives, and Federal Agency Managers.
